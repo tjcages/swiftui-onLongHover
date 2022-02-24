@@ -49,7 +49,7 @@ extension View {
 }
 ```
 
-This works for my needs – might not work for yours ☹️
+This works for my needs – might not work for yours 🤔
 
 Can't believe this isn't natively supported in SwiftUI
 
